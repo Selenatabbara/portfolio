@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genetic algorithm on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/tags/genetic-algorithm/</link>
+    <description>Recent content in genetic algorithm on Selena Tabbara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://selenatabbara.github.io/portfolio/tags/genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Master Mind Solver</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 22 Mar 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-1/</guid>
+      <description>The mastermind game is a board game which opposes a code maker and a code breaker. The code maker will have to come up with a random sequence of colors, and the code breaker will have to try and find it. At every attempt, the code maker will have to give feedback to the code breaker. My objective was to build an effective and non-time consuming solver. I have done so using Genetic Algorithm coded in C++</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Selena Tabbara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://selenatabbara.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research in Reinforcement Learning at Imperial College London</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/urop-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
+      <description>The UROP is still in progress and the page will be updated!
+I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab in Imperial College London. I have worked on privacy aware data sharing for the new generation electricity supply network, using Reinforcement Learning.
+In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household and report it to the utility provider in real time.</description>
+    </item>
+    
+    <item>
+      <title>Clinical Decision Support System for COVID-19 patients management</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-6/</link>
+      <pubDate>Sat, 02 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-6/</guid>
+      <description>EPIC IMPOC is a clinical decision support system used in the NHS to improve the management of infectious diseases by facilitating data collection, infection diagnostics and antimicrobial therapy advice at the point of care.
+In the midst of the SARS-CoV-2 outbreak, we implemented a new module in EPIC IMPOC (Enhanced, Personalized and Integrated Care for Infection Management at the Point of Care), specifically to provide aid to clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases.</description>
+    </item>
+    
+    <item>
+      <title>Smart Baby monitor</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-4/</link>
+      <pubDate>Thu, 13 Feb 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-4/</guid>
+      <description>We have implemented a smart baby monitor that record the regularly the temperature of a baby and save it on online database. It uses machine learning to check if the baby is crying or not.
+An android user friendly mobile application has been made so that the parents can receiver notification and check on the baby&amp;rsquo;s temperature and its history using Java as a programming language.   Screenshot of the mobile application&amp;#39;s main view   The ARM microcontroller is programmed to collect the read the data from the sensor using I2C protocol and C++ as a programming language.</description>
+    </item>
+    
+    <item>
+      <title>Content Creator Intern at ARM</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/internship-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/internship-2019/</guid>
+      <description>During my 12 weeks internship, I was a content creator intern in the Arm University Program. I worked on revamping one of the educational kits, Rapid Embedded Design and Programming Online Course, under the supervision of my line manager.
+The Rapid Embedded Design and Programming Online Course is a 10/14 weeks university course which aims to help the student develop their skills of using high level programming tools and languages to rapidly design and program Arm-based embedded systems and prototype them for various applications.</description>
+    </item>
+    
+    <item>
+      <title>Master Mind Solver</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 22 Mar 2018 11:13:32 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-1/</guid>
+      <description>The mastermind game is a board game which opposes a code maker and a code breaker. The code maker will have to come up with a random sequence of colors, and the code breaker will have to try and find it. At every attempt, the code maker will have to give feedback to the code breaker. My objective was to build an effective and non-time consuming solver. I have done so using Genetic Algorithm coded in C++</description>
+    </item>
+    
+  </channel>
+</rss>

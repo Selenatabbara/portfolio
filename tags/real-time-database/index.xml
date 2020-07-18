@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>real-time database on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/tags/real-time-database/</link>
+    <description>Recent content in real-time database on Selena Tabbara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://selenatabbara.github.io/portfolio/tags/real-time-database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Baby monitor</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-4/</link>
+      <pubDate>Thu, 13 Feb 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-4/</guid>
+      <description>We have implemented a smart baby monitor that record the regularly the temperature of a baby and save it on online database. It uses machine learning to check if the baby is crying or not.
+An android user friendly mobile application has been made so that the parents can receiver notification and check on the baby&amp;rsquo;s temperature and its history using Java as a programming language.   Screenshot of the mobile application&amp;#39;s main view   The ARM microcontroller is programmed to collect the read the data from the sensor using I2C protocol and C++ as a programming language.</description>
+    </item>
+    
+    <item>
+      <title>Navigational Aid for the Visually Impaired</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-3/</link>
+      <pubDate>Fri, 22 Mar 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-3/</guid>
+      <description>NAVGATE is a fully automated indoor navigation system that will equip airport terminals with the technology of the future which will improve the overall airport experience. With NAVGATE, users will be able to move around the airport easily, independently and confidently. A simple 3 part system consisting of localization system, our advanced Haptic Belt to guide the user and a user-friendly app is the key.
+Our mobile will give the user directions to the Boarding Gate, restaurants and even the restroom all easily accessible within the users mobile phone via the app.</description>
+    </item>
+    
+  </channel>
+</rss>

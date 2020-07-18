@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data processing on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/tags/data-processing/</link>
+    <description>Recent content in data processing on Selena Tabbara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://selenatabbara.github.io/portfolio/tags/data-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clinical Decision Support System for COVID-19 patients management</title>
+      <link>https://selenatabbara.github.io/portfolio/post/project-6/</link>
+      <pubDate>Sat, 02 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/project-6/</guid>
+      <description>EPIC IMPOC is a clinical decision support system used in the NHS to improve the management of infectious diseases by facilitating data collection, infection diagnostics and antimicrobial therapy advice at the point of care.
+In the midst of the SARS-CoV-2 outbreak, we implemented a new module in EPIC IMPOC (Enhanced, Personalized and Integrated Care for Infection Management at the Point of Care), specifically to provide aid to clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases.</description>
+    </item>
+    
+  </channel>
+</rss>
