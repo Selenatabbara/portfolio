@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/experience/</link>
+    <description>Recent content in Experience on Selena Tabbara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://selenatabbara.github.io/portfolio/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research in Reinforcement Learning at Imperial College London</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/urop-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
+      <description>The UROP is still in progress and the page will be updated!
+I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab in Imperial College London. I have worked on privacy aware data sharing for the new generation electricity supply network, using Reinforcement Learning.
+In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household and report it to the utility provider in real time.</description>
+    </item>
+    
+    <item>
+      <title>Content Creator Intern at ARM</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/internship-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/internship-2019/</guid>
+      <description>During my 12 weeks internship, I was a content creator intern in the Arm University Program. I worked on revamping one of the educational kits, Rapid Embedded Design and Programming Online Course, under the supervision of my line manager.
+The Rapid Embedded Design and Programming Online Course is a 10/14 weeks university course which aims to help the student develop their skills of using high level programming tools and languages to rapidly design and program Arm-based embedded systems and prototype them for various applications.</description>
+    </item>
+    
+    <item>
+      <title>Work Shadowing Programs Learning About Warehouse Management at MORECO</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/internship-2018/</link>
+      <pubDate>Sat, 07 Jul 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/internship-2018/</guid>
+      <description>link website - talk about what I learned - also refrigerating systems &amp;hellip;..</description>
+    </item>
+    
+    <item>
+      <title>Intensive Training Program at Tabbara Electro-Mechanics</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/internship-2017/</link>
+      <pubDate>Wed, 15 Nov 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/internship-2017/</guid>
+      <description>1 month intensive training program in which I have learned about the logistics behind the electro-mechanics distribution company and gained insights on major electrical components used in control and power electronic
+link to website - what is the company what did it do
+  Illustration from Victor Hugo et son temps (1881)   Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
