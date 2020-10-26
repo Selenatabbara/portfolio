@@ -6,20 +6,28 @@
     <description>Recent content in Machine Learning on Selena Tabbara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 11:14:48 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate>
     
 	<atom:link href="https://selenatabbara.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Research in Reinforcement Learning at Imperial College London</title>
+      <title>Adversarial Privacy for Activity Monitoring</title>
+      <link>https://selenatabbara.github.io/portfolio/post/final-year-project/</link>
+      <pubDate>Sat, 10 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/final-year-project/</guid>
+      <description>With the advance of smartphones, wearables devices and other Internet of Things devices, there is a variety of sensors that are generating time-series measurements of your daily activity. These sensors allow the emergence of new services which are beneficial to several areas including health monitoring, safety and productivity. While cameras, microphones and the location are preserved as privacy-sensitive, the privacy implication of activity recognition sensors is still underestimated. In fact, the detailed time-series user data shared with untrusted third parties could be used to infer private and sensitive information user information (e.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving Machine Learning Research at Imperial College London</title>
       <link>https://selenatabbara.github.io/portfolio/experience/urop-2020/</link>
       <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
       
       <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
-      <description>The UROP is still in progress and the page will be updated!
-I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab in Imperial College London. I have worked on privacy aware data sharing for the new generation electricity supply network, using Reinforcement Learning.
-In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household and report it to the utility provider in real time.</description>
+      <description>I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
+Privacy Aware Sharing in Smart Grids In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real time. However, this real-time information also carries sensitive personal information about the user&amp;rsquo;s activities.</description>
     </item>
     
     <item>

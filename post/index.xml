@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Adversarial Privacy for Activity Monitoring</title>
+      <link>https://selenatabbara.github.io/portfolio/post/final-year-project/</link>
+      <pubDate>Sat, 10 Oct 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/post/final-year-project/</guid>
+      <description>With the advance of smartphones, wearables devices and other Internet of Things devices, there is a variety of sensors that are generating time-series measurements of your daily activity. These sensors allow the emergence of new services which are beneficial to several areas including health monitoring, safety and productivity. While cameras, microphones and the location are preserved as privacy-sensitive, the privacy implication of activity recognition sensors is still underestimated. In fact, the detailed time-series user data shared with untrusted third parties could be used to infer private and sensitive information user information (e.</description>
+    </item>
+    
+    <item>
       <title>Clinical Decision Support System for COVID-19 patients management</title>
       <link>https://selenatabbara.github.io/portfolio/post/project-6/</link>
       <pubDate>Sat, 02 May 2020 11:25:05 -0400</pubDate>

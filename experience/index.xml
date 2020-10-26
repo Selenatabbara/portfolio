@@ -12,14 +12,13 @@
     
     
     <item>
-      <title>Research in Reinforcement Learning at Imperial College London</title>
+      <title>Privacy Preserving Machine Learning Research at Imperial College London</title>
       <link>https://selenatabbara.github.io/portfolio/experience/urop-2020/</link>
       <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
       
       <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
-      <description>The UROP is still in progress and the page will be updated!
-I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab in Imperial College London. I have worked on privacy aware data sharing for the new generation electricity supply network, using Reinforcement Learning.
-In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household and report it to the utility provider in real time.</description>
+      <description>I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
+Privacy Aware Sharing in Smart Grids In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real time. However, this real-time information also carries sensitive personal information about the user&amp;rsquo;s activities.</description>
     </item>
     
     <item>

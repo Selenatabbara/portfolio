@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>data processing on Selena Tabbara</title>
-    <link>https://selenatabbara.github.io/portfolio/tags/data-processing/</link>
-    <description>Recent content in data processing on Selena Tabbara</description>
+    <title>GAN on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/tags/gan/</link>
+    <description>Recent content in GAN on Selena Tabbara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate>
     
-	<atom:link href="https://selenatabbara.github.io/portfolio/tags/data-processing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://selenatabbara.github.io/portfolio/tags/gan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,13 +21,13 @@
     </item>
     
     <item>
-      <title>Clinical Decision Support System for COVID-19 patients management</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-6/</link>
-      <pubDate>Sat, 02 May 2020 11:25:05 -0400</pubDate>
+      <title>Privacy Preserving Machine Learning Research at Imperial College London</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/urop-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-6/</guid>
-      <description>EPIC IMPOC is a clinical decision support system used in the NHS to improve the management of infectious diseases by facilitating data collection, infection diagnostics and antimicrobial therapy advice at the point of care.
-In the midst of the SARS-CoV-2 outbreak, we implemented a new module in EPIC IMPOC (Enhanced, Personalized and Integrated Care for Infection Management at the Point of Care), specifically to provide aid to clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases.</description>
+      <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
+      <description>I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
+Privacy Aware Sharing in Smart Grids In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real time. However, this real-time information also carries sensitive personal information about the user&amp;rsquo;s activities.</description>
     </item>
     
   </channel>

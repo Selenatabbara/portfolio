@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcment learning on Selena Tabbara</title>
+    <link>https://selenatabbara.github.io/portfolio/tags/reinforcment-learning/</link>
+    <description>Recent content in reinforcment learning on Selena Tabbara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://selenatabbara.github.io/portfolio/tags/reinforcment-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy Preserving Machine Learning Research at Imperial College London</title>
+      <link>https://selenatabbara.github.io/portfolio/experience/urop-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
+      <description>I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
+Privacy Aware Sharing in Smart Grids In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real time. However, this real-time information also carries sensitive personal information about the user&amp;rsquo;s activities.</description>
+    </item>
+    
+  </channel>
+</rss>
