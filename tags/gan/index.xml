@@ -6,17 +6,13 @@
     <description>Recent content in GAN on Selena Tabbara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate>
-    
-	<atom:link href="https://selenatabbara.github.io/portfolio/tags/gan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://selenatabbara.github.io/portfolio/tags/gan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial Privacy for Activity Monitoring</title>
-      <link>https://selenatabbara.github.io/portfolio/post/final-year-project/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/final-year-project/</link>
       <pubDate>Sat, 10 Oct 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/final-year-project/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/final-year-project/</guid>
       <description>With the advance of smartphones, wearables devices, and other Internet of Things devices, there is a variety of sensors that are generating time-series measurements of your daily activity. These sensors allow the emergence of new services that are beneficial to several areas including health monitoring, safety, and productivity. While cameras, microphones, and the location are preserved as privacy-sensitive, the privacy implication of activity recognition sensors is still underestimated. In fact, the detailed time-series user data shared with untrusted third parties could be used to infer private and sensitive information user information (e.</description>
     </item>
     
@@ -26,8 +22,8 @@
       <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
       
       <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
-      <description>I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
-Privacy Aware Sharing in Smart Grids In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real-time. However, this real-time information also carries sensitive personal information about the user’s activities.</description>
+      <description>I am working as part of the Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
+Privacy-Aware Sharing in Smart Grids (canceled) In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real-time. However, this real-time information also carries sensitive personal information about the user’s activities.</description>
     </item>
     
   </channel>

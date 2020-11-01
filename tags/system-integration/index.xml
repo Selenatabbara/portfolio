@@ -6,29 +6,25 @@
     <description>Recent content in system integration on Selena Tabbara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Mar 2019 11:00:59 -0400</lastBuildDate>
-    
-	<atom:link href="https://selenatabbara.github.io/portfolio/tags/system-integration/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 22 Mar 2019 11:00:59 -0400</lastBuildDate><atom:link href="https://selenatabbara.github.io/portfolio/tags/system-integration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigational Aid for the Visually Impaired</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-3/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-3/</link>
       <pubDate>Fri, 22 Mar 2019 11:00:59 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-3/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-3/</guid>
       <description>NAVGATE is a fully automated indoor navigation system that will equip airport terminals with the technology of the future which will improve the overall airport experience. With NAVGATE, users will be able to move around the airport easily, independently and confidently. A simple 3 part system consisting of localization system, our advanced Haptic Belt to guide the user and a user-friendly app is the key.
 Our mobile will give the user directions to the Boarding Gate, restaurants and even the restroom all easily accessible within the users mobile phone via the app.</description>
     </item>
     
     <item>
       <title>EE1 Rover Group Project</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-2/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-2/</link>
       <pubDate>Mon, 30 Apr 2018 11:00:59 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-2/</guid>
-      <description>The aim of this project is to implement a remotely-controlled rover that can explore a hazardous store room and identify unusual material that would emit a combination of different signals (infrared and radio signals) using C++ as a computer language and Arduino IDE as a development tool.
-As part of the project I have worked on the implementation of the sensors, the mobile application design, the user interface, the intelligent unit, the maneuverability of the rover.</description>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-2/</guid>
+      <description>This project aims to implement a remotely-controlled rover that can explore a hazardous storeroom and identify unusual material that would emit a combination of different signals (infrared and radio signals) using C++ as a computer language and Arduino IDE as a development tool.
+As part of the project, I have worked on the implementation of the sensors, the mobile application design, the user interface, the intelligent unit, and the maneuverability of the rover.</description>
     </item>
     
   </channel>

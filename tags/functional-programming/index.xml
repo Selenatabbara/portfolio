@@ -6,20 +6,16 @@
     <description>Recent content in functional programming on Selena Tabbara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2020 11:15:58 -0400</lastBuildDate>
-    
-	<atom:link href="https://selenatabbara.github.io/portfolio/tags/functional-programming/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Mar 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://selenatabbara.github.io/portfolio/tags/functional-programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tiny Functional Language</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-5/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-5/</link>
       <pubDate>Mon, 30 Mar 2020 11:15:58 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-5/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-5/</guid>
       <description>The aim is to make a usable untyped functional language system all written in F# which allows the implementation of pure functional features like Church numbers.
 The work modularises as:
- Lexer Parser Lambda closure run time system  The lexer perform a lexical analysis, the process of converting the stream of characters to words (&amp;lsquo;tokens&amp;rsquo;). The parser then use these tokens to find the relationship between them and determine the syntax.</description>
+ Lexer Parser Lambda closure runtime system  The lexer performs lexical analysis, the process of converting the stream of characters to words (&amp;lsquo;tokens&amp;rsquo;). The parser then uses these tokens to find the relationship between them and determine the syntax. In other words, the parser converts the tokens to a syntax tree that can be used by the run time to give an output.</description>
     </item>
     
   </channel>

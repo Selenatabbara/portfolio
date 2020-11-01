@@ -165,7 +165,9 @@ sup {
  */
 
 img {
-  border-style: none;
+  /* border-style: center; */
+  margin: auto;
+  /* align-content: center; */
 }
 
 /* Forms
@@ -5641,7 +5643,6 @@ code, .code {
 }
 
 .nested-img img {
-  width: 100%;
   max-width: 100%;
   display: block;
 }

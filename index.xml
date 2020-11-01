@@ -6,17 +6,13 @@
     <description>Recent content on Selena Tabbara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate>
-    
-	<atom:link href="https://selenatabbara.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 10 Oct 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://selenatabbara.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial Privacy for Activity Monitoring</title>
-      <link>https://selenatabbara.github.io/portfolio/post/final-year-project/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/final-year-project/</link>
       <pubDate>Sat, 10 Oct 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/final-year-project/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/final-year-project/</guid>
       <description>With the advance of smartphones, wearables devices, and other Internet of Things devices, there is a variety of sensors that are generating time-series measurements of your daily activity. These sensors allow the emergence of new services that are beneficial to several areas including health monitoring, safety, and productivity. While cameras, microphones, and the location are preserved as privacy-sensitive, the privacy implication of activity recognition sensors is still underestimated. In fact, the detailed time-series user data shared with untrusted third parties could be used to infer private and sensitive information user information (e.</description>
     </item>
     
@@ -26,39 +22,39 @@
       <pubDate>Wed, 01 Jul 2020 11:14:48 -0400</pubDate>
       
       <guid>https://selenatabbara.github.io/portfolio/experience/urop-2020/</guid>
-      <description>I am working as part of Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
-Privacy Aware Sharing in Smart Grids In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real-time. However, this real-time information also carries sensitive personal information about the user’s activities.</description>
+      <description>I am working as part of the Undergraduate Research Opportunities Program (UROP) at the Information Processing and Communications Lab at Imperial College London.
+Privacy-Aware Sharing in Smart Grids (canceled) In the new generation electricity supply networks, smart meters play a key role in recording the electricity consumption of a household by reporting it to the utility provider in real-time. However, this real-time information also carries sensitive personal information about the user’s activities.</description>
     </item>
     
     <item>
       <title>Clinical Decision Support System for COVID-19 patients management</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-6/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-6/</link>
       <pubDate>Sat, 02 May 2020 11:25:05 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-6/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-6/</guid>
       <description>EPIC IMPOC is a clinical decision support system used in the NHS to improve the management of infectious diseases by facilitating data collection, infection diagnostics and antimicrobial therapy advice at the point of care.
 In the midst of the SARS-CoV-2 outbreak, we implemented a new module in EPIC IMPOC (Enhanced, Personalized and Integrated Care for Infection Management at the Point of Care), specifically to provide aid to clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases.</description>
     </item>
     
     <item>
       <title>Tiny Functional Language</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-5/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-5/</link>
       <pubDate>Mon, 30 Mar 2020 11:15:58 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-5/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-5/</guid>
       <description>The aim is to make a usable untyped functional language system all written in F# which allows the implementation of pure functional features like Church numbers.
 The work modularises as:
- Lexer Parser Lambda closure run time system  The lexer perform a lexical analysis, the process of converting the stream of characters to words (&amp;lsquo;tokens&amp;rsquo;). The parser then use these tokens to find the relationship between them and determine the syntax.</description>
+ Lexer Parser Lambda closure runtime system  The lexer performs lexical analysis, the process of converting the stream of characters to words (&amp;lsquo;tokens&amp;rsquo;). The parser then uses these tokens to find the relationship between them and determine the syntax. In other words, the parser converts the tokens to a syntax tree that can be used by the run time to give an output.</description>
     </item>
     
     <item>
       <title>Smart Baby monitor</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-4/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-4/</link>
       <pubDate>Thu, 13 Feb 2020 11:14:48 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-4/</guid>
-      <description>We have implemented a smart baby monitor that record the regularly the temperature of a baby and save it on online database. It uses machine learning to check if the baby is crying or not.
-An android user friendly mobile application has been made so that the parents can receiver notification and check on the baby&amp;rsquo;s temperature and its history using Java as a programming language.   Screenshot of the mobile application&amp;#39;s main view   The ARM microcontroller is programmed to collect the read the data from the sensor using I2C protocol and C++ as a programming language.</description>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-4/</guid>
+      <description>We have implemented a smart baby monitor that records the temperature of a baby regularly and saves it on an online database, Firebase. It uses machine learning to check if the baby is crying or not.
+An android user-friendly mobile application has been made so that the parents can receive notifications and check on the baby&amp;rsquo;s current temperature and its history using Java as a programming language.   Screenshot of the mobile application&amp;#39;s main view   The ARM microcontroller is programmed to collect the read the data from the sensor using I2C protocol and C++ as a programming language.</description>
     </item>
     
     <item>
@@ -68,46 +64,46 @@ An android user friendly mobile application has been made so that the parents ca
       
       <guid>https://selenatabbara.github.io/portfolio/experience/internship-2019/</guid>
       <description>During my 12 weeks internship, I was a content creator intern in the Arm University Program. I worked on revamping one of the educational kits, Rapid Embedded Design and Programming Online Course, under the supervision of my line manager.
-The Rapid Embedded Design and Programming Online Course is a 10/14 weeks university course which aims to help the student develop their skills of using high level programming tools and languages to rapidly design and program Arm-based embedded systems and prototype them for various applications.</description>
+The Rapid Embedded Design and Programming Online Course is a 10/14 weeks university course. It aims to help the student develop their skills of using high-level programming tools and languages to rapidly design and program ARM-based embedded systems and prototype them for various applications.</description>
     </item>
     
     <item>
       <title>Navigational Aid for the Visually Impaired</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-3/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-3/</link>
       <pubDate>Fri, 22 Mar 2019 11:00:59 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-3/</guid>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-3/</guid>
       <description>NAVGATE is a fully automated indoor navigation system that will equip airport terminals with the technology of the future which will improve the overall airport experience. With NAVGATE, users will be able to move around the airport easily, independently and confidently. A simple 3 part system consisting of localization system, our advanced Haptic Belt to guide the user and a user-friendly app is the key.
 Our mobile will give the user directions to the Boarding Gate, restaurants and even the restroom all easily accessible within the users mobile phone via the app.</description>
     </item>
     
     <item>
       <title>EE1 Rover Group Project</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-2/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-2/</link>
       <pubDate>Mon, 30 Apr 2018 11:00:59 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-2/</guid>
-      <description>The aim of this project is to implement a remotely-controlled rover that can explore a hazardous store room and identify unusual material that would emit a combination of different signals (infrared and radio signals) using C++ as a computer language and Arduino IDE as a development tool.
-As part of the project I have worked on the implementation of the sensors, the mobile application design, the user interface, the intelligent unit, the maneuverability of the rover.</description>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-2/</guid>
+      <description>This project aims to implement a remotely-controlled rover that can explore a hazardous storeroom and identify unusual material that would emit a combination of different signals (infrared and radio signals) using C++ as a computer language and Arduino IDE as a development tool.
+As part of the project, I have worked on the implementation of the sensors, the mobile application design, the user interface, the intelligent unit, and the maneuverability of the rover.</description>
     </item>
     
     <item>
       <title>Master Mind Solver</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project-1/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project-1/</link>
       <pubDate>Thu, 22 Mar 2018 11:13:32 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project-1/</guid>
-      <description>The mastermind game is a board game which opposes a code maker and a code breaker. The code maker will have to come up with a random sequence of colors, and the code breaker will have to try and find it. At every attempt, the code maker will have to give feedback to the code breaker. My objective was to build an effective and non-time consuming solver. I have done so using Genetic Algorithm coded in C++</description>
+      <guid>https://selenatabbara.github.io/portfolio/project/project-1/</guid>
+      <description>The mastermind game is a board game which opposes a code maker and a code breaker. The code maker will have to come up with a random sequence of colors, and the codebreaker will have to try and find it. At every attempt, the code maker will have to give feedback to the codebreaker. My objective was to build an effective and non-time consuming solver. I have done so using a Genetic Algorithm coded in C++.</description>
     </item>
     
     <item>
       <title>Edge Makers Inc., Riyada - Innovation camp</title>
-      <link>https://selenatabbara.github.io/portfolio/post/project/</link>
+      <link>https://selenatabbara.github.io/portfolio/project/project/</link>
       <pubDate>Wed, 09 Aug 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://selenatabbara.github.io/portfolio/post/project/</guid>
-      <description>I have participated in an innovation camp around solving an environmental problem related to waste (2 weeks). To solve the problem, I have made a semi-functional platform which connects NGO that are already working recycling or reusing the waste with the private sector.
-As part of the camp I have developed a business scheme as well as a mobile app, using JAVA as a computer language. I have pitched my idea during a speech to the minister of communication and a representative of the prime minister at the Government Palace.</description>
+      <guid>https://selenatabbara.github.io/portfolio/project/project/</guid>
+      <description>I have participated in an innovation camp around solving an environmental problem related to waste (2 weeks). To solve the problem, I have made a semi-functional platform that connects NGOs that are already working on recycling or reusing the waste with the private sector.
+As part of the camp, I have developed a business scheme as well as a mobile app, using JAVA as a computer language. I have pitched my idea to the minister of communication, a representative of the prime minister, and the CEO of Touch (one of the Leading Telecommunication companies in Lebanon) at the Government Palace.</description>
     </item>
     
     <item>
