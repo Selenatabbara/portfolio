@@ -36,11 +36,11 @@
 <meta itemprop="description" content="A Clinical Decision Support System (CDSS) that helps clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases">
 <meta itemprop="datePublished" content="2020-05-02T11:25:05-04:00" />
 <meta itemprop="dateModified" content="2020-05-02T11:25:05-04:00" />
-<meta itemprop="wordCount" content="262">
+<meta itemprop="wordCount" content="643">
 
 
 
-<meta itemprop="keywords" content="data processing,machine learning," />
+<meta itemprop="keywords" content="data processing,machine learning,data pipeline,probabilistic inference," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Clinical Decision Support System for COVID-19 patients management"/>
 <meta name="twitter:description" content="A Clinical Decision Support System (CDSS) that helps clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases"/>
@@ -177,12 +177,56 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p><a href="https://www.imperial.ac.uk/bio-inspired-technology/research/infection-technology/epic-impoc/">EPIC IMPOC</a> is a clinical decision support system used in the NHS to improve the management of infectious diseases by facilitating data collection, infection diagnostics and antimicrobial therapy advice at the point of care.</p>
-<p>In the midst of the SARS-CoV-2 outbreak, we implemented a new module in EPIC IMPOC (Enhanced, Personalized and Integrated Care for Infection Management at the Point of Care), specifically to provide aid to clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases.</p>
-<p>During this project, I have preprocessed the data using <strong>Pandas</strong> library and selected the most important features using Random Forests.</p>
-<p>I have also worked on the <strong>Probabilistic Inference</strong> module estimates the probability of COVID-19 infection in a patient based on key pathology data. I have tested different machine learning algorithm using mainly <strong>Scikit Learn</strong> library and the following algorithms were selected : LightGBM, Random Forest Classifier and Decision Tree Classifier.</p>
-<p>Finally, I have implemented the <strong>Case Base Reasoning</strong> system which retrieves similar patients and provide them to the clinicians to support them with treatment prescription using, on one hand, the pathology profile, and on the other hand, the vital signs, symptoms, radiology results and medical history of the patient. This has been done by computing the weighted distance between a given patient and the remainder of cases and selecting the most similar cases. The system’s performance was evaluated using the patient’s outcome to verify and investigate patient similarities.</p>
-<p>For both the Probabilistic Inference Module and the Case Base Reasoning system, different filters, imputers and scalers were tested and selected to maximize the performance.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h1 id="everybody-has-head-about-covid">Everybody has head about COVID</h1>
+<p>The first case of COVID-19 was detected in Wuhan, China, on December  31st, 2019. Soon after, the WHO has characterized this viral disease as a global pandemic. Many governments have imposed a lockdown to protect the NHS from being overwhelmed and limit the spread of the disease.
+Since then, the COVID-19 has seriously impacted businesses and the economy. It also has been had serious implications for people&rsquo;s livelihoods and health. For example, my 6 months of industrial placement as a Data Scientist in Airbus has been canceled.</p>
+<h1 id="the-goal">The Goal</h1>
+<p><a href="https://www.imperial.ac.uk/bio-inspired-technology/research/infection-technology/epic-impoc/">EPIC IMPOC</a> is a clinical decision support system used in the NHS to improve the management of infectious diseases by facilitating data collection, infection diagnostics, and antimicrobial therapy advice at the point of care.</p>
+<p>In the midst of the SARS-CoV-2 outbreak, we have implemented a new module for EPIC IMPOC (Enhanced, Personalized, and Integrated Care for Infection Management at the Point of Care), specifically to provide aid to clinicians to diagnose COVID-19 patients and treat them by retrieving similar cases.</p>
+<h1 id="the-final-solution">The Final Solution</h1>
+<p>This module is a new component of EPIC IMPOC that focuses specifically on integrating current medical knowledge of COVID-19 and patient data with an inference engine to predict the likelihood of infection.</p>
+<p>Additionally, it includes a patient retrieval system that is packaged in a desktop-friendly panel for clinicians within EPIC IMPOC to identify patients with similar severity levels, symptoms, and medical histories in the UK.</p>
+<p>This EPIC IMPOC module is one of the first planned to undergo clinical trials in the NHS, starting in early July 2020. This solution will be a crucial part of the Imperial College Healthcare NHS Trust’s COVID-19 response to the second wave in the pandemic. The Trust’s five hospitals currently treat more than 1.125 million patients and employ 11,800 people annually.</p>
+<h1 id="technical-overview-and-learning-outcomes">Technical Overview and Learning outcomes</h1>
+<h2 id="data-preprocessing-and-pipeline">Data Preprocessing and Pipeline</h2>
+<p>During this project, I have preprocessed the data using <strong>Pandas</strong> library and <strong>selected the most important features</strong> using Random Forests. I have also built a <strong>data pipeline</strong> that includes: data filtering, data imputation, and data scaling that maximizes the Probabilistic Inference Module and the Case Base Reasoning system performances.</p>
+<h2 id="probabilistic-inference-module">Probabilistic Inference Module</h2>
+<p>I have also worked on the <strong>Probabilistic Inference</strong> module estimates the probability of COVID-19 infection in a patient based on key pathology data. I have evaluated different machine learning algorithms using mainly <strong>Scikit Learn</strong> library, and the following algorithms were selected: LightGBM, Random Forest Classifier, and Decision Tree Classifier.</p>
+<figure>
+    <img src="https://selenatabbara.github.io/portfolio/images/LightGBM%20Performance.png" height="350"/> <figcaption>
+            <h4>LightGBM Performance in Predicting SARS-COV-2 Infection Based on Patients&#39; Blood Tests</h4>
+        </figcaption>
+</figure>
+
+<h2 id="case-base-reasoning-system">Case Base Reasoning System</h2>
+<p>Finally, I have implemented the <strong>Case Base Reasoning</strong> system that retrieves similar patients and provide them to the clinicians to support them with treatment prescription using, on the one hand, the pathology profile, and on the other hand, the vital signs, symptoms, radiology results and medical history of the patient.
+<a href="https://www.iiia.csic.es/~enric/papers/AICom.pdf"><figure>
+    <img src="https://selenatabbara.github.io/portfolio/images/cbr_cycle8.jpg" height="350"/> <figcaption>
+            <h4>The CBR cycle - the 4 phases of the CBR cycle according to Aamodt and Plaza</h4>
+        </figcaption>
+</figure>
+</a></p>
+<p>This has been done by computing the weighted distance between a given patient and the remainder of cases and selecting the most similar cases. The system performance was evaluated using the patient outcome to verify and investigate patient similarities.
+<figure>
+    <img src="https://selenatabbara.github.io/portfolio/images/cbr_gen_sup.png"/> <figcaption>
+            <h4>Workflow of the Supervised CBR</h4>
+        </figcaption>
+</figure>
+</p>
+<p>To evaluate the quality of the retrieved patients, a simple voting system was used to predict the patients' outcomes. The percentage of retrieved patients that have been admitted to the ICU/died was compared to a predefined threshold. In fact, after observing that the classes are highly imbalanced, the threshold has been lowered to maximize performance.
+<figure>
+    <img src="https://selenatabbara.github.io/portfolio/images/metrics_keira_death.png"/> <figcaption>
+            <h4>Comparaison of the CBR Performance in Death prediction for Different Distance Metrics</h4>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="https://selenatabbara.github.io/portfolio/images/metrics_keira_ICU.png"/> <figcaption>
+            <h4>Comparaison of the CBR Performance in ICU Prediction for Different Distance Metrics</h4>
+        </figcaption>
+</figure>
+</p>
+<p>Finally, I have worked with the &ldquo;Back-end Django Application Team&rdquo; in order to integrate the machine learning models and the data pipeline with the Django Application.</p>
 <ul class="pa0">
   
    <li class="list">
@@ -191,6 +235,14 @@
   
    <li class="list">
      <a href="https://selenatabbara.github.io/portfolio/tags/machine-learning" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">machine learning</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://selenatabbara.github.io/portfolio/tags/data-pipeline" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">data pipeline</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://selenatabbara.github.io/portfolio/tags/probabilistic-inference" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">probabilistic inference</a>
    </li>
   
 </ul>
